@@ -9,3 +9,6 @@
 
 * [Dynamic Indicators on GTA5-Mods](https://www.gta5-mods.com/scripts/dynamic-indicators)
 * [Vehicle developer information](https://forums.gta5-mods.com/topic/30141/script-rel-dynamic-indicators)
+
+
+Porked from https://github.com/E66666666/GTAVIndicators/tree/master/tk0wnz-indicators
